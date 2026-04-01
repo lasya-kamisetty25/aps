@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lasya-kamisetty25/aps/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/lasya-kamisetty25/aps/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/lasya-kamisetty25/aps/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/lasya-kamisetty25/aps/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lasya-kamisetty25/aps/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasya-kamisetty25/aps/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lasya-kamisetty25/aps/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/lasya-kamisetty25/aps/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/lasya-kamisetty25/aps/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lasya-kamisetty25/aps/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/lasya-kamisetty25/aps/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lasya-kamisetty25/aps/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/lasya-kamisetty25/aps/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/lasya-kamisetty25/aps/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/lasya-kamisetty25/aps/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/lasya-kamisetty25/aps/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
