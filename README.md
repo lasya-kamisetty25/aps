@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/lasya-kamisetty25/aps/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lasya-kamisetty25/aps/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/lasya-kamisetty25/aps/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/lasya-kamisetty25/aps/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/lasya-kamisetty25/aps/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/lasya-kamisetty25/aps/tree/master/0283-move-zeroes) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/lasya-kamisetty25/aps/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lasya-kamisetty25/aps/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lasya-kamisetty25/aps/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/lasya-kamisetty25/aps/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lasya-kamisetty25/aps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lasya-kamisetty25/aps/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lasya-kamisetty25/aps/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lasya-kamisetty25/aps/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/lasya-kamisetty25/aps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lasya-kamisetty25/aps/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/lasya-kamisetty25/aps/tree/master/0542-01-matrix) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lasya-kamisetty25/aps/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/lasya-kamisetty25/aps/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/lasya-kamisetty25/aps/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lasya-kamisetty25/aps/tree/master/1971-find-if-path-exists-in-graph) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/lasya-kamisetty25/aps/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/lasya-kamisetty25/aps/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/lasya-kamisetty25/aps/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/lasya-kamisetty25/aps/tree/master/0994-rotting-oranges) |
