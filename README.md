@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/lasya-kamisetty25/aps/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/lasya-kamisetty25/aps/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/lasya-kamisetty25/aps/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -303,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/lasya-kamisetty25/aps/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/lasya-kamisetty25/aps/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/lasya-kamisetty25/aps/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/lasya-kamisetty25/aps/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
