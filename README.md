@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/lasya-kamisetty25/aps/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lasya-kamisetty25/aps/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/lasya-kamisetty25/aps/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/lasya-kamisetty25/aps/tree/master/0973-k-closest-points-to-origin) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/lasya-kamisetty25/aps/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lasya-kamisetty25/aps/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lasya-kamisetty25/aps/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/lasya-kamisetty25/aps/tree/master/0198-house-robber) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lasya-kamisetty25/aps/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lasya-kamisetty25/aps/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
