@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lasya-kamisetty25/aps/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/lasya-kamisetty25/aps/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lasya-kamisetty25/aps/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lasya-kamisetty25/aps/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/lasya-kamisetty25/aps/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/lasya-kamisetty25/aps/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/lasya-kamisetty25/aps/tree/master/0542-01-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lasya-kamisetty25/aps/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/lasya-kamisetty25/aps/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lasya-kamisetty25/aps/tree/master/0169-majority-element) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lasya-kamisetty25/aps/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/lasya-kamisetty25/aps/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/lasya-kamisetty25/aps/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasya-kamisetty25/aps/tree/master/0977-squares-of-a-sorted-array) |
@@ -361,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lasya-kamisetty25/aps/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/lasya-kamisetty25/aps/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
