@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/lasya-kamisetty25/aps/tree/master/0739-daily-temperatures) |
 | [0929-unique-email-addresses](https://github.com/lasya-kamisetty25/aps/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/lasya-kamisetty25/aps/tree/master/0946-validate-stack-sequences) |
+| [0973-k-closest-points-to-origin](https://github.com/lasya-kamisetty25/aps/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasya-kamisetty25/aps/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/lasya-kamisetty25/aps/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/lasya-kamisetty25/aps/tree/master/0997-find-the-town-judge) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lasya-kamisetty25/aps/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lasya-kamisetty25/aps/tree/master/0169-majority-element) |
 | [0721-accounts-merge](https://github.com/lasya-kamisetty25/aps/tree/master/0721-accounts-merge) |
+| [0973-k-closest-points-to-origin](https://github.com/lasya-kamisetty25/aps/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/lasya-kamisetty25/aps/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/lasya-kamisetty25/aps/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/lasya-kamisetty25/aps/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/lasya-kamisetty25/aps/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/lasya-kamisetty25/aps/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lasya-kamisetty25/aps/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/lasya-kamisetty25/aps/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lasya-kamisetty25/aps/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0973-k-closest-points-to-origin](https://github.com/lasya-kamisetty25/aps/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/lasya-kamisetty25/aps/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/lasya-kamisetty25/aps/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/lasya-kamisetty25/aps/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/lasya-kamisetty25/aps/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0973-k-closest-points-to-origin](https://github.com/lasya-kamisetty25/aps/tree/master/0973-k-closest-points-to-origin) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/lasya-kamisetty25/aps/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
@@ -326,4 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/lasya-kamisetty25/aps/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lasya-kamisetty25/aps/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/lasya-kamisetty25/aps/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
